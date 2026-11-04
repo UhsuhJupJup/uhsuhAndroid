@@ -1,0 +1,25 @@
+# Android Studio
+/.idea/
+*.iml
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+
+# Local SDK configuration
+local.properties
+
+# Build outputs and captures
+build/
+.externalNativeBuild/
+.cxx/
+/captures/
+*.apk
+*.aab
+
+# Signing keys
+*.jks
+*.keystore
+
+# macOS
+.DS_Store
